@@ -1,18 +1,63 @@
-## Getting Started
+🔍 Práctica de Búsqueda Binaria y Ordenamiento
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
 
-## Folder Structure
+📝 Descripción
 
-The workspace contains two folders by default, where:
+Esta aplicación implementa algoritmos de búsqueda binaria y ordenamiento aplicados a objetos en Java, siguiendo el patrón MVC (Modelo-Vista-Controlador) para una mejor organización y comprensión del código.
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+📊 Algoritmos Implementados
 
-## Dependency Management
+Ordenamiento
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+
+
+Bubble Sort: Ordena comparando elementos adyacentes e intercambiándolos si están en orden incorrecto.
+
+Selection Sort: Busca el elemento máximo y lo coloca en la posición correcta.
+
+Insertion Sort: Construye la lista ordenada elemento por elemento.
+
+
+Búsqueda
+
+Búsqueda Binaria: Implementada para buscar por nombre o edad en arreglos ordenados, verificando primero si el arreglo está ordenado.
+
+
+
+🚀 Ejecución
+
+Ejecute el programa:
+
+![code](https://github.com/user-attachments/assets/02215781-32ca-4976-a041-ce4762d68580)
+
+
+✅ Validaciones
+
+
+⚠️ Se valida que las edades estén en un rango entre 0 y 120 años.
+
+⚠️ Se verifica que los nombres no estén vacíos.
+
+⚠️ Se controla que el arreglo esté ordenado antes de realizar búsquedas binarias.
+
+⚠️ Se manejan entradas inválidas en el menú principal y submenús.
+
+
+🎯 Resultados Obtenidos
+
+Comprensión de los algoritmos de búsqueda y ordenamiento aplicados a objetos.
+
+Uso adecuado del patrón MVC para organizar una aplicación.
+
+Correcto funcionamiento del programa para ingresar, ordenar y buscar personas.
+
+
+👨‍💻 Autor
+
+Nombre del estudiante: Daniel Sanchez
+
+Universidad Politécnica Salesiana
+
+Asignatura: Estructura de Datos
