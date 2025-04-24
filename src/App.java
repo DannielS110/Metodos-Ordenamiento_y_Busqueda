@@ -112,8 +112,11 @@ public class App {
                 break;
             default:
                 System.out.println("Opcion invalida. No se realizo ningun ordenamiento.");
-                break;
+                return;
         }
+        
+        // Mostrar las personas después del ordenamiento
+        view.displayPersons(getPersons());
     }
     
     public void searchPerson() {
