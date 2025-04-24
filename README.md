@@ -12,8 +12,11 @@ Esta aplicación implementa algoritmos de búsqueda binaria y ordenamiento aplic
 Ordenamiento
 
 
+
 Bubble Sort: Ordena comparando elementos adyacentes e intercambiándolos si están en orden incorrecto.
+
 Selection Sort: Busca el elemento máximo y lo coloca en la posición correcta.
+
 Insertion Sort: Construye la lista ordenada elemento por elemento.
 
 
@@ -45,7 +48,9 @@ Ejecute el programa:
 🎯 Resultados Obtenidos
 
 Comprensión de los algoritmos de búsqueda y ordenamiento aplicados a objetos.
+
 Uso adecuado del patrón MVC para organizar una aplicación.
+
 Correcto funcionamiento del programa para ingresar, ordenar y buscar personas.
 
 
